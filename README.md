@@ -1,3 +1,3 @@
 # Awesome AI For Security Lists
 
-A collection of research applied reinforcement learning for security.
+A collection of researches applied reinforcement learning for security.
